@@ -28,7 +28,7 @@ export default function ServicesSection() {
     <ServicesItemsStyles>
       <div className="container">
         <SectionTitle
-          Subheading="Ce que je suis capable de faire"
+          subheading="Ce que je suis capable de faire"
           heading="Services"
         />
         <div className="services__allItems">
